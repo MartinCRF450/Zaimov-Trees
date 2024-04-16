@@ -18,3 +18,4 @@ C:\Ivayla11d\TreesZaimov\TreesZaimov\bin\Debug\net8.0-windows\Microsoft.Extensio
 C:\Ivayla11d\TreesZaimov\TreesZaimov\bin\Debug\net8.0-windows\MySqlConnector.dll
 C:\Ivayla11d\TreesZaimov\TreesZaimov\obj\Debug\net8.0-windows\ConectingTables.csproj.AssemblyReference.cache
 C:\Ivayla11d\TreesZaimov\TreesZaimov\obj\Debug\net8.0-windows\Conectin.F9024B98.Up2Date
+C:\Ivayla11d\TreesZaimov\TreesZaimov\obj\Debug\net8.0-windows\ConectingTables.sourcelink.json

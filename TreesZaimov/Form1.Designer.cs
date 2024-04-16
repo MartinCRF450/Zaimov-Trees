@@ -78,13 +78,14 @@
             button1.TabIndex = 4;
             button1.Text = "Insert into razred";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveBorder;
-            ClientSize = new Size(312, 214);
+            ClientSize = new Size(316, 195);
             Controls.Add(button1);
             Controls.Add(txtNameBG);
             Controls.Add(txtName);

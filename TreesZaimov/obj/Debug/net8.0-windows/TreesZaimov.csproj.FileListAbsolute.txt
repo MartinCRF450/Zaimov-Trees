@@ -1,0 +1,17 @@
+C:\Ivayla11d\TreesZaimov\TreesZaimov\bin\Debug\net8.0-windows\TreesZaimov.exe
+C:\Ivayla11d\TreesZaimov\TreesZaimov\bin\Debug\net8.0-windows\TreesZaimov.deps.json
+C:\Ivayla11d\TreesZaimov\TreesZaimov\bin\Debug\net8.0-windows\TreesZaimov.runtimeconfig.json
+C:\Ivayla11d\TreesZaimov\TreesZaimov\bin\Debug\net8.0-windows\TreesZaimov.dll
+C:\Ivayla11d\TreesZaimov\TreesZaimov\bin\Debug\net8.0-windows\TreesZaimov.pdb
+C:\Ivayla11d\TreesZaimov\TreesZaimov\obj\Debug\net8.0-windows\TreesZaimov.Form1.resources
+C:\Ivayla11d\TreesZaimov\TreesZaimov\obj\Debug\net8.0-windows\TreesZaimov.csproj.GenerateResource.cache
+C:\Ivayla11d\TreesZaimov\TreesZaimov\obj\Debug\net8.0-windows\TreesZaimov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ivayla11d\TreesZaimov\TreesZaimov\obj\Debug\net8.0-windows\TreesZaimov.AssemblyInfoInputs.cache
+C:\Ivayla11d\TreesZaimov\TreesZaimov\obj\Debug\net8.0-windows\TreesZaimov.AssemblyInfo.cs
+C:\Ivayla11d\TreesZaimov\TreesZaimov\obj\Debug\net8.0-windows\TreesZaimov.csproj.CoreCompileInputs.cache
+C:\Ivayla11d\TreesZaimov\TreesZaimov\obj\Debug\net8.0-windows\TreesZaimov.sourcelink.json
+C:\Ivayla11d\TreesZaimov\TreesZaimov\obj\Debug\net8.0-windows\TreesZaimov.dll
+C:\Ivayla11d\TreesZaimov\TreesZaimov\obj\Debug\net8.0-windows\refint\TreesZaimov.dll
+C:\Ivayla11d\TreesZaimov\TreesZaimov\obj\Debug\net8.0-windows\TreesZaimov.pdb
+C:\Ivayla11d\TreesZaimov\TreesZaimov\obj\Debug\net8.0-windows\TreesZaimov.genruntimeconfig.cache
+C:\Ivayla11d\TreesZaimov\TreesZaimov\obj\Debug\net8.0-windows\ref\TreesZaimov.dll

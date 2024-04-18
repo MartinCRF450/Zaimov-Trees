@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TreesZaimov")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd846b868cb7dac5a9b3cedb89887074e20bf329")]
 [assembly: System.Reflection.AssemblyProductAttribute("TreesZaimov")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TreesZaimov")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

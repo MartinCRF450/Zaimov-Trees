@@ -1,0 +1,32 @@
+C:\Ivayla11d\TreesZaimov\Conecting Tables\bin\Debug\net8.0-windows\Conecting Tables.exe
+C:\Ivayla11d\TreesZaimov\Conecting Tables\bin\Debug\net8.0-windows\Conecting Tables.deps.json
+C:\Ivayla11d\TreesZaimov\Conecting Tables\bin\Debug\net8.0-windows\Conecting Tables.runtimeconfig.json
+C:\Ivayla11d\TreesZaimov\Conecting Tables\bin\Debug\net8.0-windows\Conecting Tables.dll
+C:\Ivayla11d\TreesZaimov\Conecting Tables\bin\Debug\net8.0-windows\Conecting Tables.pdb
+C:\Ivayla11d\TreesZaimov\Conecting Tables\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Ivayla11d\TreesZaimov\Conecting Tables\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Ivayla11d\TreesZaimov\Conecting Tables\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Ivayla11d\TreesZaimov\Conecting Tables\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Ivayla11d\TreesZaimov\Conecting Tables\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Ivayla11d\TreesZaimov\Conecting Tables\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Ivayla11d\TreesZaimov\Conecting Tables\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Ivayla11d\TreesZaimov\Conecting Tables\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Ivayla11d\TreesZaimov\Conecting Tables\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Ivayla11d\TreesZaimov\Conecting Tables\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Ivayla11d\TreesZaimov\Conecting Tables\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Ivayla11d\TreesZaimov\Conecting Tables\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Ivayla11d\TreesZaimov\Conecting Tables\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Ivayla11d\TreesZaimov\Conecting Tables\obj\Debug\net8.0-windows\Conecting Tables.csproj.AssemblyReference.cache
+C:\Ivayla11d\TreesZaimov\Conecting Tables\obj\Debug\net8.0-windows\Conecting_Tables.Form1.resources
+C:\Ivayla11d\TreesZaimov\Conecting Tables\obj\Debug\net8.0-windows\Conecting Tables.csproj.GenerateResource.cache
+C:\Ivayla11d\TreesZaimov\Conecting Tables\obj\Debug\net8.0-windows\Conecting Tables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ivayla11d\TreesZaimov\Conecting Tables\obj\Debug\net8.0-windows\Conecting Tables.AssemblyInfoInputs.cache
+C:\Ivayla11d\TreesZaimov\Conecting Tables\obj\Debug\net8.0-windows\Conecting Tables.AssemblyInfo.cs
+C:\Ivayla11d\TreesZaimov\Conecting Tables\obj\Debug\net8.0-windows\Conecting Tables.csproj.CoreCompileInputs.cache
+C:\Ivayla11d\TreesZaimov\Conecting Tables\obj\Debug\net8.0-windows\Conecting Tables.sourcelink.json
+C:\Ivayla11d\TreesZaimov\Conecting Tables\obj\Debug\net8.0-windows\Conectin.F266F3F7.Up2Date
+C:\Ivayla11d\TreesZaimov\Conecting Tables\obj\Debug\net8.0-windows\Conecting Tables.dll
+C:\Ivayla11d\TreesZaimov\Conecting Tables\obj\Debug\net8.0-windows\refint\Conecting Tables.dll
+C:\Ivayla11d\TreesZaimov\Conecting Tables\obj\Debug\net8.0-windows\Conecting Tables.pdb
+C:\Ivayla11d\TreesZaimov\Conecting Tables\obj\Debug\net8.0-windows\Conecting Tables.genruntimeconfig.cache
+C:\Ivayla11d\TreesZaimov\Conecting Tables\obj\Debug\net8.0-windows\ref\Conecting Tables.dll

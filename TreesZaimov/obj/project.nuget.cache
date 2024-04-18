@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PcA0SYGPGO3Lm6q1D2KAXb9Mpj9VL7oYBYM1vdrQrAzFn3Ww9bL0rnOFiOdRnB2YtMz++miSLWyBOZaK8VYFbw==",
+  "dgSpecHash": "JxLp1BlwCOE+SYGHIa5dMToHd2zfKsdMonHDopatsZsyVZpBwwB8FPAEin0QxxfOHhwTTEurKVfyK3yt/N/kkg==",
   "success": true,
-  "projectFilePath": "C:\\Ivayla11d\\TreesZaimov\\TreesZaimov\\ConectingTables.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\STUDENTS-1212-3\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
-    "C:\\Users\\STUDENTS-1212-3\\.nuget\\packages\\mysqlconnector\\2.3.6\\mysqlconnector.2.3.6.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Ivayla11d\\TreesZaimov\\TreesZaimov\\TreesZaimov.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
